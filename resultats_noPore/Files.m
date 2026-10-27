@@ -60,6 +60,3 @@ save('resultats_PoreSize_longCycle_COMPLETE.mat', ...
 
 disp('All variables have been successfully reconstructed!');
 
-%% load
-
-load('resultats_COMPLETE.mat');
